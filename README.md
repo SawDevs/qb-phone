@@ -21,10 +21,10 @@
 # explain
 Fivem Phone For QBCore With SimCard System New Script Made By US Team
 
-# **Made By Thx For : **
+# Made By Thx For : 
 - HadyDEV -- https://discord.gg/SawStore
 
-### ** Notes **
+### Notes
 
 - Do Not Use It For Your Files Just Take This Code Just For Explain How To Work This Code
 - Do Not Use It For Your Files Just Take This Code Just For Explain How To Work This Code
@@ -37,7 +37,7 @@ Fivem Phone For QBCore With SimCard System New Script Made By US Team
 # Main Script
 [ Click This Link If You Want Main Script ] --> [CLick me](https://github.com/llbooya/qb-phone-npstyle)
 
-# ** Fivem Commands **
+# Fivem Commands :
 
 /givesim -- لاعطاء شريحه
 
