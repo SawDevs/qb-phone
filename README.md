@@ -38,7 +38,11 @@ Fivem Phone For QBCore With SimCard System New Script Made By US Team
 [ Click This Link If You Want Main Script ] --> [CLick me](https://github.com/llbooya/qb-phone-npstyle)
 
 # ** Fivem Commands **
+
 /givesim -- لاعطاء شريحه
+
 /phonebalance -- لتعبه الرصيد 
+
 /takeoffsim -- لاقفال الشريحه
+
 /mynumber -- لمعرفه رقمك
